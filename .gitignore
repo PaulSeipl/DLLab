@@ -1,4 +1,6 @@
 *.lnk
-01_ex_solution.ipynb
-feed-forward-neural-network.ipynb
-linear-regression.ipynb
+
+venv
+course_files/
+cifar10
+Pokemon_challenge
